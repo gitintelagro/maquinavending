@@ -1,0 +1,12 @@
+{
+    "name": "Interfaz",
+    "short_name": "IMV",
+    "start_url": "https://imv.natdat.mx/pantalla.html",
+    "display": "standalone",
+    "orientation": "landscape",
+    "icons": [{
+      "src": "https://intelagro.net/intelagro/img/logos.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }]
+  }
